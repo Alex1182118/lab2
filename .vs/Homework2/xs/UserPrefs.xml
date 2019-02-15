@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{FC1697CF-D39C-4B04-8633-E6540AC0DB2B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Homework2/Controllers/FarmaController.cs">
+    <Files>
+      <File FileName="Homework2/Controllers/FarmaController.cs" Line="91" Column="29" />
+      <File FileName="Homework2/Views/Farma/BuscarEmpleado.cshtml" Line="9" Column="39" />
+      <File FileName="Homework2/Views/Farma/EncontrarEmpleado.cshtml" Line="1" Column="1" />
+      <File FileName="Homework2/Views/Farma/MostrarEmpleados.cshtml" Line="20" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Homework2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/lisdiaz/Documents/U/Semetre III/Estructura de datos I/Lab/Tareas/Tarea Laboratorio 2/Homework2/Homework2/Views/Farma/EntrarACola.cshtml" relfile="Homework2/Views/Farma/EntrarACola.cshtml" line="14" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

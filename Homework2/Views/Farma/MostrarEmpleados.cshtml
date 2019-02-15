@@ -1,0 +1,20 @@
+﻿@model Homework2.Models.FarmaModel
+
+@{
+    ViewBag.Title = "MostrarEmpleado";
+}
+
+<h2>Cantidad de empleados</h2>
+<h3>Total Empleados: </h3> @ViewBag.TotalEmpleados
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </th>
+        <th></th>
+    </tr>
+
+</table>
